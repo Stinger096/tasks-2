@@ -5,7 +5,7 @@ import java.io.*;
 public class Main {
 	public static void main (String[] args) throws java.lang.Exception
 	{
-		// Input
+		
 		Scanner sc = new Scanner(System.in);
 		int i = 1;
 		int j = 1;
